@@ -18,8 +18,9 @@ Test craete a new branch.
 
 in master branch insert this line in line 19
 
+in dev branch add this line 18
+line 19: msg ....
+ in dev branch add tis line in 20
 
 
-
-
-in master branch insert this line in 25
+ fixed conflict
